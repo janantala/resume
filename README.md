@@ -10,37 +10,30 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 
 ## Experience
 
-- **Innovation Engineer** 
+- **Innovation Engineer** *(April 2014 - Present)*
   - VIAMO, a. s. feat. Apptives, s. r. o.
   - Defining and developing new concepts of **cutting-edge mobile technologies** like *iBeacons, NFC, fingerprint sensor* in preproduction Viamo mobile applications.
-  - *April 2014 - Present*
-- **Web Engineer**
+- **Web Engineer** *(May 2012 - April 2014)*
   - Apptives, s. r. o.
   - Developing **hybrid mobile applications**, **mobile web** and **restful backend** services.
-  - *May 2012 - April 2014*
-- **Web developer** 
+- **Web developer** *(2011 - September 2012)*
   - Freelancer
   - Contract **front-end** and **mobile web** developing.
-  - *2011 - September 2012*
 
 #### Open Source contributions
 
-- **Angular Adaptive** 
+- **Angular Adaptive** *(March 2013 - Present)*
   - Adaptive components for AngularJS.
-  - *March 2013 - Present*
-- **OZ United** 
+- **OZ United** *(September 2012 - Present)*
   - Web developement and work at the nonprofit organization.
-  - *September 2012 - Present*
-- **many more projects at GitHub**
+- **many more projects available on GitHub**
 
 ## Education
 
-- **Master of Engineering (MEng), Information Systems**
+- **Master of Engineering (MEng), Information Systems** *(2012 - 2014)*
   - Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava
-  - *2012 - 2014*
-- **Bachelor of Engineering (BEng), Informatics**
+- **Bachelor of Engineering (BEng), Informatics** *(2009 - 2012)*
   - Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava
-  - *2009 - 2012*
 
 ## Languages
 
