@@ -38,3 +38,9 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 - **Bachelor of Engineering (BEng), Informatics**
   - Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava
   - *2009 - 2012*
+
+## Languages
+
+- **English** - Professional working proficiency
+- **German** - Elementary proficiency
+- **Slovak** - Native proficiency
