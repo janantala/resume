@@ -32,8 +32,10 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 
 - **Master of Engineering (MEng), Information Systems** *(2012 - 2014)*
   - Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava
+  - Master's thesis: *Adaptive Web Design*
 - **Bachelor of Engineering (BEng), Informatics** *(2009 - 2012)*
   - Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava
+  - Bachelor's thesis: *Developing Rich Internet Applications for Mobile Devices*
 
 ## Languages
 
