@@ -1,4 +1,4 @@
-![](title.png)
+<a href="mailto:hello@janantala.com" title="Jan Antala"><img src="title.png"/></a>
 
 Hello there!
 
@@ -12,15 +12,18 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 
 - **Innovation Engineer** 
   - VIAMO, a. s. feat. Apptives, s. r. o.
+  - Defining and developing new concepts of **cutting-edge mobile technologies** like *iBeacons, NFC, fingerprint sensor* in preproduction Viamo mobile applications.
   - *April 2014 - Present*
-- **Front End Engineer**
+- **Web Engineer**
   - Apptives, s. r. o.
+  - Developing **hybrid mobile applications**, **mobile web** and **restful backend** services.
   - *May 2012 - April 2014*
 - **Web developer** 
   - Freelancer
+  - Contract **front-end** and **mobile web** developing.
   - *2011 - September 2012*
 
-#### Open Source activity
+#### Open Source contributions
 
 - **Angular Adaptive** 
   - Adaptive components for AngularJS.
