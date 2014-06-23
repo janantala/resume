@@ -15,15 +15,15 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
   - *Viamo* service provides secure mobile payments. I've been defining and developing new concepts of **cutting-edge mobile technologies** in preproduction Viamo mobile applications for *iOS and Android*.
 - **Web Engineer** *(May 2012 - Present)*
   - Apptives, s. r. o.
-  - Developing **hybrid mobile applications**, **mobile web** and **restful backend** services using *MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)*.
+  - I've been developing **hybrid mobile applications**, **mobile web** and **restful backend** services using *MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)*.
 - **Web developer** *(2011 - September 2012)*
   - Freelancer
-  - Contract **front-end** and **mobile web** developing.
+  - Contract **front-end** and **mobile web** developing in *Backbone.js and jQuery*.
 
 #### Open Source contributions
 
 - **Angular Adaptive** *(March 2013 - Present)*
-  - I've been managin organization and developing adaptive web components for AngularJS.
+  - I've been managing organization and developing **alternative control methods** (using *voice commands, device motion and web camera motion*) and **adaptive web components** for *AngularJS* applications.
 - **OZ United** *(September 2012 - Present)*
   - I've been doing web developement and voluntary work at the nonprofit organization.
 - **many more projects available on GitHub**
