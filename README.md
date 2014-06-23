@@ -29,6 +29,17 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 - **many more projects available on GitHub**
   - Various front-end libraries, polyfills, web components...
 
+#### Talks
+
+- **Adaptive Web Design** *(Bratislava, 11th June 2014)*
+  - FIIT STU
+- **Beyond Adaptive Web Design** *(Bratislava, 29th April 2014)*
+  - IIT.SRC 2014
+- **How to build an open source AngularJS module** *(Bratislava, 5th December 2013)*
+  - WebElement #25 feat. Slovak AngularJS #3
+- **Re-Imagining User Interface** *(Bratislava, 23rd April 2013)*
+  - IIT.SRC 2013, TP Cup Competition
+
 ## Education
 
 - **Master of Engineering (MEng), Information Systems** *(2012 - 2014)*
