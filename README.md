@@ -12,10 +12,10 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 
 - **Innovation Engineer** *(April 2014 - Present)*
   - VIAMO, a. s. feat. Apptives, s. r. o.
-  - Defining and developing new concepts of **cutting-edge mobile technologies** like *iBeacons, NFC, fingerprint sensor* in preproduction Viamo mobile applications.
-- **Web Engineer** *(May 2012 - April 2014)*
+  - *Viamo* service provides secure mobile payments. I've been defining and developing new concepts of **cutting-edge mobile technologies** in preproduction Viamo mobile applications for *iOS and Android*.
+- **Web Engineer** *(May 2012 - Present)*
   - Apptives, s. r. o.
-  - Developing **hybrid mobile applications**, **mobile web** and **restful backend** services.
+  - Developing **hybrid mobile applications**, **mobile web** and **restful backend** services using *MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)*.
 - **Web developer** *(2011 - September 2012)*
   - Freelancer
   - Contract **front-end** and **mobile web** developing.
@@ -23,10 +23,11 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 #### Open Source contributions
 
 - **Angular Adaptive** *(March 2013 - Present)*
-  - Adaptive components for AngularJS.
+  - I've been managin organization and developing adaptive web components for AngularJS.
 - **OZ United** *(September 2012 - Present)*
-  - Web developement and work at the nonprofit organization.
+  - I've been doing web developement and voluntary work at the nonprofit organization.
 - **many more projects available on GitHub**
+  - Various front-end libraries, polyfills, web components...
 
 ## Education
 
