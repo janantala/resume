@@ -25,7 +25,7 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 - **Angular Adaptive** *(March 2013 - Present)*
   - I've been managing organization and developing **alternative control methods** (using *voice commands, device motion and web camera motion*) and **adaptive web components** for *AngularJS* applications.
 - **OZ United** *(September 2012 - Present)*
-  - I've been doing web developement and voluntary work at the nonprofit organization.
+  - OZ United creates conditions for meaningful leisure time of youth. I've been doing voluntary work and web developement at this nonprofit organization.
 - **many more projects available on GitHub**
   - Various front-end libraries, polyfills, web components...
 
