@@ -11,11 +11,11 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 ## Experience
 
 - **Innovation Engineer** *(April 2014 - Present)*
-  - VIAMO, a. s. feat. Apptives, s. r. o.
+  - VIAMO, a. s.
   - *Viamo* service provides secure mobile payments. I've been defining and developing new concepts of **cutting-edge mobile technologies** in preproduction Viamo mobile applications for *iOS and Android*.
-- **Web Engineer** *(May 2012 - Present)*
+- **Software Engineer** *(May 2012 - Present)*
   - Apptives, s. r. o.
-  - I've been developing **hybrid mobile applications**, **mobile web** and **restful backend** services using *MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)*.
+  - I've been developing **native and hybrid mobile applications** for *iOS and Android*, **front-end web applications** and **restful backend** services using *MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)*.
 - **Web developer** *(2011 - September 2012)*
   - Freelancer
   - Contract **front-end** and **mobile web** developing in *Backbone.js and jQuery*.
@@ -23,22 +23,16 @@ I also like to talk and tweet about it. Check out my [talk slides](http://www.ja
 #### Open Source contributions
 
 - **Angular Adaptive** *(March 2013 - Present)*
-  - I've been managing organization and developing **alternative control methods** (using *voice commands, device motion and web camera motion*) and **adaptive web components** for *AngularJS* applications.
+  - I've been managing open source organization and developing **alternative control methods** (using *voice commands, device motion and web camera motion*) and **adaptive web components** for *AngularJS* applications.
 - **OZ United** *(September 2012 - Present)*
   - OZ United creates conditions for meaningful leisure time of youth. I've been doing voluntary work and web developement at this nonprofit organization.
-- **many more projects available on GitHub**
-  - Various front-end libraries, polyfills, web components...
+- **many more projects available on my [GitHub account](https://github.com/janantala)**
+  - Various front-end libraries, polyfills and web components favored by developer community.
 
 #### Talks
 
-- **Adaptive Web Design** *(Bratislava, 11th June 2014)*
-  - FIIT STU
-- **Beyond Adaptive Web Design** *(Bratislava, 29th April 2014)*
-  - IIT.SRC 2014
 - **How to build an open source AngularJS module** *(Bratislava, 5th December 2013)*
   - WebElement #25 feat. Slovak AngularJS #3
-- **Re-Imagining User Interface** *(Bratislava, 23rd April 2013)*
-  - IIT.SRC 2013, TP Cup Competition
 
 ## Education
 
